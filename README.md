@@ -3,7 +3,7 @@
 
 ##
 My name is Bruno, i'm a programming learner<br>
-💼-currently working: Support<br>
+💼-currently working: Chatbots, automation and APIs<br>
 🎓-learning more every day<br>
 💻-<b>Things I code with:</b>
 
