@@ -13,8 +13,8 @@ I enjoy building practical projects and learning new technologies every day.
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Back-end
-[![NPM](https://nodei.co/npm/nodejs.svg?style=mini&color=brightgreen)](https://nodei.co/npm/nodejs/)
-
+![Node](https://img.shields.io/badge/Node.js-0?style=flat&logo=Node.js&logoColor=Black&color=black)
+![Python](https://img.shields.io/badge/python-1?style=flat&logo=Python&logoColor=Black)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
