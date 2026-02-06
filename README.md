@@ -1,27 +1,38 @@
-### Hey! Nice to meet you! 🧐
-<a href="https://github.com/BrunoAbr"></a>
+# Hey! Nice to meet you! 👋
 
-##
-My name is Bruno, i'm a programming learner<br>
-💼-currently working: Chatbots, automation and APIs<br>
-🎓-learning more every day<br>
-💻-<b>Things I code with:</b>
+My name is Bruno, I'm a programming learner and full stack developer in progress.  
+I enjoy building practical projects and learning new technologies every day.
 
-<div>
- <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+---
 
-<div align="center">
-  <a href="https://github.com/BrunoAbr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoAbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="141em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoAbr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+## 🚀 What I'm working with
 
-##
-<b>You can find me:</b>
-<div>
-   <a href="https://www.linkedin.com/in/bruno-abreu-102291225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Front-end
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Back-end
+[![NPM](https://nodei.co/npm/nodejs.svg?style=mini&color=brightgreen)](https://nodei.co/npm/nodejs/)
+
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+
+### Database & Auth
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+
+### Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+---
+
+## 💡 Main interests
+- Web development  
+- Fullstack
+- BackEnd Developer
+- APIs and integrations  
+
+---
+
+## 🌐 You can find me here
+[LinkedIn](https://www.linkedin.com/in/bruno-abreu-102291225/)
