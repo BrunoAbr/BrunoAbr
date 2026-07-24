@@ -1,39 +1,67 @@
-# Hey! Nice to meet you! 👋
+# Hi there! 👋 I'm Bruno Abreu
 
-My name is Bruno, I'm a programming learner and full stack developer in progress.  
-I enjoy building practical projects and learning new technologies every day.
+<div align="center">
+
+💻 DevOps | Cloud | Automation | Linux | Programing
+
+Passionate about automating infrastructure, code, building CI/CD pipelines and learning cloud technologies.
+
+Currently transitioning from Infrastructure to DevOps while building practical projects with AWS, Docker, Terraform, Kubernetes and Python.
+
+</div>
 
 ---
 
-## 🚀 What I'm working with
+## 🚀 About Me
 
-### Front-end
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+- 💼 Infrastructure professional with 3+ years of experience
+- ☁️ Studying AWS Cloud and DevOps practices
+- 🐧 Linux enthusiast
+- ⚙️ Automating processes with Python and Bash
+- 🚀 Building DevOps projects to solve real-world problems
+- 📚 Always learning something new
 
-### Back-end
-![Node](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+
+### Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Programming
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-
-### Database & Auth
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-
-### Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ---
 
-## 💡 Main interests
-- Web development  
-- Fullstack
-- BackEnd Developer
-- APIs and integrations  
+## 🎯 2026 Goals
+
+- ✅ Land my first DevOps Engineer position
+- 🚀 Earn AWS Solutions Architect Associate certification
+- ☸️ Deepen Kubernetes knowledge
+- ⚙️ Build more automation projects
 
 ---
 
-## 🌐 You can find me here
-[LinkedIn](https://www.linkedin.com/in/bruno-abreu-102291225/)
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno--abreu)
